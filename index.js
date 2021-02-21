@@ -48,4 +48,4 @@ setInterval(function() {
     });
 }, 300000);
 
-client.login('ODEyNzM5NDU5MzA0OTE0OTQ0.YDFImw.tm12hJYcacRFuf1iFCHSGX6-Bwk');
+client.login(process.env.token);
